@@ -1,0 +1,16 @@
+{
+  "customers": "Customers",
+  "table": {
+    "tableHeader": "Our Customers",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "description": "Description"
+  },
+  "inputTable": {
+    "inputTable": "Add New Customer",
+    "userAdded": "User Successfully Added",
+    "submit": "Submit",
+    "clear": "Clear"
+  }
+}

@@ -1,4 +1,6 @@
 # sample-project
+`vue.js, vue-router, axios, vuetify, vee-validate
+`
 
 ## Project setup
 ```

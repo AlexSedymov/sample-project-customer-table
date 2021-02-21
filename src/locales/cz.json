@@ -1,0 +1,17 @@
+{
+  "customers": "Zákazníci",
+  "table": {
+    "tableHeader": "Naši zákazníci",
+    "name": "Jméno",
+    "phone": "Telefonní číslo",
+    "email": "Email",
+    "description": "Popis"
+  },
+  "inputTable": {
+    "inputTable": "Přidat nového zákazníka",
+    "userAdded": "Uživatel byl úspěšně přidán",
+    "submit": "Uložit",
+    "clear": "Vymazat"
+  }
+}
+
