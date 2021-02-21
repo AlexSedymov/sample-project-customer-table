@@ -3,6 +3,10 @@
 `
 
 ## Project setup
+### Setup backEnd for the project
+Simple BE project is *[HERE](https://github.com/AlexSedymov/sample-project-customer-table-be)*.
+
+### Libraries installs
 ```
 npm install
 ```
@@ -21,6 +25,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
